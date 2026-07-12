@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with Software engineering 
-- 💬 Ask me about DSA, C  & SQL
+- 💬 Ask me about DSA, SQL, C
 - 📫 How to reach me: https://linkedin.com/in/sakshi-singh-4124742a7 
      Email: sakshisinghlps2005@gmail.com
 - 😄 Pronouns: SHE/HER
