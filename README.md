@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DSA & leetCode
+- 🔭 I’m currently working on DSA & LeetCode
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with Software engineering 
 - 💬 Ask me about DSA, C, & SQL
 - 📫 How to reach me: https://linkedin.com/in/sakshi-singh-4124742a7 
-     EMAI : sakshisinghlps2005@gmail.com
+     Email: sakshisinghlps2005@gmail.com
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I love solving coding problems consistency beats talents 
   
