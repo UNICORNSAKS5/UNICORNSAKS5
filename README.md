@@ -1,9 +1,4 @@
 ## Hi there 👋SAKSHI SINGH 
-
-**UNICORNSAKS5/UNICORNSAKS5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DSA & LeetCode
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects 
@@ -12,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://linkedin.com/in/sakshi-singh-4124742a7 
      Email: sakshisinghlps2005@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I love solving coding problems consistency beats talents 
+- ⚡ Fun fact: I love solving coding problems. Consistency beats talents 
   
 
 ## 🌐 Socials:
