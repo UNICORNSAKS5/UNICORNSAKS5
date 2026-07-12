@@ -1,5 +1,5 @@
 ## Hi there 👋SAKSHI SINGH 
-     SOFTWARE ENGINEER || DEVELOPERS || DATA SCIENCE || DATA ANYALIS 
+     SOFTWARE ENGINEER||DEVELOPER||DATA SCIENCE||Data Analysis 
 - 🔭 I’m currently working on DSA & LeetCode
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects 
