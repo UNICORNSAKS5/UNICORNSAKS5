@@ -1,6 +1,6 @@
 ## Hi there 👋SAKSHI SINGH 
-     SOFTWARE ENGINEER||DEVELOPER||DATA SCIENCE||Data Analysis 
-- 🔭 I’m currently working on DSA & LeetCode
+     ASPIRING SDE BUILDING THE INSIGHTFUL PROJECTS  
+- 🔭 I’m currently working on DSA & LeetCode  
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with Software engineering 
